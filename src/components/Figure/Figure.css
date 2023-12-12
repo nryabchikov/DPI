@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: center;
+}
+
+.avatar {
+    height: 200px;
+    border: 2px solid white;
+}
+
+.blac {
+    color: white;
+}
+
+Timeline {
+    color: black;
+}
