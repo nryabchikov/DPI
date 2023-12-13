@@ -7,13 +7,13 @@ import { Form } from "react-bootstrap";
 function Search(props) {
     const { t } = useTranslation();
     const [searchField, setSearchField] = useState("");
-    const filteredWriters = props.info.filter((writer) =>
-        writer.full_name.toLowerCase().includes(searchField.toLowerCase())
+    const filteredFigures = props.info.filter((figure) =>
+        figure.full_name.toLowerCase().includes(searchField.toLowerCase())
     );
     const handleChange = (e) => setSearchField(e.target.value);
 
     function searchList() {
-        return <SearchList filteredWriters={filteredWriters} />;
+        return <SearchList filteredFigures={filteredFigures} />;
     }
 
     return (

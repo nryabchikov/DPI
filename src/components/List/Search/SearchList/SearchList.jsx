@@ -4,8 +4,8 @@ import './SearchList.css'
 
 function SearchList(props) {
     return (
-        <div className='filmmakers'>
-            {props.filteredWriters.map(writer => <Card writer={writer} />)}
+        <div className='figures'>
+            {props.filteredFigures.map(figure => <Card figure={figure} />)}
         </div>
     );
 }

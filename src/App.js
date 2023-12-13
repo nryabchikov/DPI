@@ -4,7 +4,7 @@ import Body from "./components/Home/Body/Body";
 import developersInfo from "./data/developersInfo";
 import List from "./components/List/List";
 import Figure from "./components/Figure/Figure";
-import { HashRouter, Route, Routes } from "react-router-dom";
+import {HashRouter, Route, BrowserRouter, Routes} from "react-router-dom";
 import figuresDatabase from "./data/personsDatabase";
 import "./App.css";
 
@@ -16,7 +16,7 @@ const App = () => {
     return (
         <div className="App">
             <div className="gradient__bg">
-                <HashRouter>
+                <BrowserRouter>
                     <div>
                         <Header />
                         <div>
@@ -43,7 +43,7 @@ const App = () => {
                             </Routes>
                         </div>
                     </div>
-                </HashRouter>
+                </BrowserRouter>
             </div>
         </div>
     );
