@@ -1,4 +1,4 @@
-.filmmakers {
+.figures {
     display: flex;
     justify-content: space-between;
     padding: 20px;
@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 1300px) {
-    .filmmakers {
+    .figures {
         display: block;
         height: auto;
         width: 100%;
