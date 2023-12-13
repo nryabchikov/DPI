@@ -17,7 +17,6 @@ const Body = (props) => {
                 </div>
                 <div className="gpt3__features-container__feature-text">
                     <h1 className="gpt3__cta-content">{t("figure_of_the_day")}</h1>
-
                     <div className="gpt3__cta-content">{props.mainPerson.full_name}</div>
                     <div className="gpt3__cta-content">({props.mainPerson.life_dates})</div>
                     <div className="gpt3__cta-content">{props.mainPerson.short_information}</div>
