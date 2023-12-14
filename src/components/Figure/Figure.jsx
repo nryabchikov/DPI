@@ -7,7 +7,6 @@ import VideosList from "./Videos/VideosList";
 import OwnMap from "./Map/Map";
 
 const Figure = (props) => {
-
     return (
         <div className='wrapper'>
             <h1 className='blac'>{props.info.full_name}</h1>
