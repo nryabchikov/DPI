@@ -8,6 +8,9 @@ const Body = (props) => {
     const { t } = useTranslation();
     return (
         <div>
+            <div className = "description__of__site">
+                Добро пожаловать на страницу People of future. Здесь Вы можете найти информацию о создателях международных корпораций
+            </div>
             <div className="gpt3__cta wow animate__animated animate__zoomIn">
                 <div className="gpt3__cta-content">
                     {}
@@ -25,8 +28,8 @@ const Body = (props) => {
                     </NavLink>
                 </div>
             </div>
-
             <div className="developers-block">
+                <h1 className = "developers__title">Разработчики</h1>
                 <div className="developers-list">
                     {props.developers_info.map((developer) => (
                         <Developer info={developer} />

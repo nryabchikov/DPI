@@ -7,7 +7,6 @@ import languages from "../../../data/languages";
 
 const Header = () => {
     const { t } = useTranslation();
-
     return (
         <div className="gpt3__navbar wow animate__animated animate__fadeInDown">
             <div className="gpt3__navbar-menu">
