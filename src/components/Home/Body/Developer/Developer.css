@@ -6,8 +6,10 @@
   }
 
   .gpt3__footer-btn img {
-    max-width: 90px;
-    max-height: 90px;
+      max-width: 100px;
+      max-height: 100px;
+      width: 100%;
+      height: 100%;
   }
 
   .gpt3__footer-heading {
@@ -27,6 +29,7 @@
   .section__padding {
     display: flex;
     justify-content: space-between;
+      margin-right: -100px; /*костыль жесткий, зато красиво отображается*/
   }
 
   .gpt3__footer-btn p {
@@ -38,10 +41,11 @@
     border: 1px solid #fff;
     margin-bottom: 10rem;
     transition: 0.5s;
+      margin-top: 10px;
   }
 
   .gpt3__footer-btn p {
-    box-sizing: border-box;
+      box-sizing : border-box;
     font-family: var(--font-family);
     font-size: 16px;
     line-height: 0px;
