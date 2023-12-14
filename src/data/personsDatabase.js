@@ -23,10 +23,11 @@ import photo5_1 from './imgs/billGates/gallery1.jpg'
 import photo5_2 from './imgs/billGates/gallery2.jpg'
 import photo5_3 from './imgs/billGates/gallery3.jpg'
 
+
 const personsDatabase = [
     {
         id: 1,
-        url: '/ilonMask',
+        url: '/ElonMask',
         full_name: 'Илон Маск',
         life_dates: '1971-...',
         main_photo: avatar1,

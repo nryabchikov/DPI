@@ -64,7 +64,6 @@
     line-height: 30px;
     padding: 0.5rem 1rem;
     border-radius: 2rem;
-
     border: none;
     outline: none;
     cursor: pointer;
@@ -72,6 +71,7 @@
 }
 
 .developers-list {
+    margin-right: 100px;
     display: flex;
     justify-content: space-between;
 }

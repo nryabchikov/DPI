@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b509922-c074-4374-ac36-c9115339b6a6" name="Changes" comment="add bootstrap" />
+    <list default="true" id="4b509922-c074-4374-ac36-c9115339b6a6" name="Changes" comment="add bootstrap">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Body/Body.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Body/Body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Body/Developer/Developer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Body/Developer/Developer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/personsDatabase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/personsDatabase.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ZSG0vE13sV7EAPQweWWUU7zl4I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,8 +42,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/eugen/WebstormProjects/testRPI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\software\\developing\\webstorm\\WebStorm 2023.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,6 +83,7 @@
       <workItem from="1702410173018" duration="552000" />
       <workItem from="1702415670534" duration="61000" />
       <workItem from="1702471854162" duration="682000" />
+      <workItem from="1702493665534" duration="13804000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1702408591821</created>
