@@ -4,7 +4,7 @@ import Body from "./components/Home/Body/Body";
 import developersInfo from "./data/developersInfo";
 import List from "./components/List/List";
 import Figure from "./components/Figure/Figure";
-import {HashRouter, Route, BrowserRouter, Routes} from "react-router-dom";
+import {Route, BrowserRouter, Routes} from "react-router-dom";
 import figuresDatabase from "./data/personsDatabase";
 import "./App.css";
 
