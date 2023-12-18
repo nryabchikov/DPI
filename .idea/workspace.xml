@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b509922-c074-4374-ac36-c9115339b6a6" name="Changes" comment="Try to fix router" />
+    <list default="true" id="4b509922-c074-4374-ac36-c9115339b6a6" name="Changes" comment="feat: build project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.284cc7a1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.284cc7a1.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c9a2dc55.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c9a2dc55.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c9a2dc55.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/job.5f59c1c531258ec592f099373731d158.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702748373249</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: build project">
+      <created>1702926531822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702926531822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +150,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="add bootstrap" />
     <MESSAGE value="Try to fix router" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try to fix router" />
+    <MESSAGE value="feat: build project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: build project" />
   </component>
 </project>
